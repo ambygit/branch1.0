@@ -1,0 +1,9 @@
+get-help
+get-command (with option to use -whatif, -noun, -verb)
+get-member 
+
+
+
+where-object
+$_ = current item of an iteration
+foreach-object (execute a command for each item)
